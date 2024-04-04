@@ -1,0 +1,14 @@
+C:\Users\sit433\dotnet\ECommerce.Models\bin\Debug\net8.0\ECommerce.Models.deps.json
+C:\Users\sit433\dotnet\ECommerce.Models\bin\Debug\net8.0\ECommerce.Models.runtimeconfig.json
+C:\Users\sit433\dotnet\ECommerce.Models\bin\Debug\net8.0\ECommerce.Models.dll
+C:\Users\sit433\dotnet\ECommerce.Models\bin\Debug\net8.0\ECommerce.Models.pdb
+C:\Users\sit433\dotnet\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.csproj.AssemblyReference.cache
+C:\Users\sit433\dotnet\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sit433\dotnet\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.AssemblyInfoInputs.cache
+C:\Users\sit433\dotnet\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.AssemblyInfo.cs
+C:\Users\sit433\dotnet\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\sit433\dotnet\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.dll
+C:\Users\sit433\dotnet\ECommerce.Models\obj\Debug\net8.0\refint\ECommerce.Models.dll
+C:\Users\sit433\dotnet\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.pdb
+C:\Users\sit433\dotnet\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.genruntimeconfig.cache
+C:\Users\sit433\dotnet\ECommerce.Models\obj\Debug\net8.0\ref\ECommerce.Models.dll
