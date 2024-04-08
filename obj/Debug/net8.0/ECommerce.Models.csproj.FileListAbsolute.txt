@@ -12,3 +12,4 @@ C:\Users\sit433\dotnet\ECommerce.Models\obj\Debug\net8.0\refint\ECommerce.Models
 C:\Users\sit433\dotnet\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.pdb
 C:\Users\sit433\dotnet\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.genruntimeconfig.cache
 C:\Users\sit433\dotnet\ECommerce.Models\obj\Debug\net8.0\ref\ECommerce.Models.dll
+C:\Users\sit433\dotnet\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.sourcelink.json
