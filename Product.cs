@@ -28,9 +28,6 @@ namespace ECommerce.Models
         [ForeignKey("CategoryId")]
         public Category category { get; set; }
 
-        public ProductWithName Select(Func<object, ProductWithName> value)
-        {
-            throw new NotImplementedException();
-        }
+        public string imageUrl { get; set; }
     }
 }
